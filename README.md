@@ -1,1 +1,1 @@
-# Wide-Area-Information-Servers-WAIS-
+# WAIS
